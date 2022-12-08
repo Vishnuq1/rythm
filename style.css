@@ -1,0 +1,92 @@
+.spotifyblack{
+    flex-direction: column;
+    align-items: center;
+ /* padding-left: 43%; */
+ margin-left: 43%;
+    /* background-color: antiquewhite;  */
+}
+.mainspot{
+    font-size: medium;
+    font-style: 200 italic;
+}
+.button{
+
+    /* flex-direction: row;
+justify-content: space-around; */
+padding-left: 45%;
+/* background-color: antiquewhite; */
+/* background-color: #04AA6D; */
+    border: none;
+     color: white; 
+     
+    text-align: center;
+    
+    display: inline-block; 
+    font-size: 50px;
+     margin: 4px 2px; 
+   
+}
+.facebook{
+    padding-left: 135px;
+    padding-right: 135px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #4e6693;
+    color: white;
+    
+    border: 2px solid #c5c5c5;
+    border-radius: 35px;
+    cursor: pointer;
+    
+}
+
+.apple{
+    padding-left: 149px;
+    padding-right: 149px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #191919;
+    color: white;
+    border: 2px solid #c5c5c5;
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+.google{
+    padding-left: 145px;
+    padding-right: 145px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+    border: 2px solid #c5c5c5;
+    border-radius: 35px;
+    cursor: pointer;
+}
+
+.phn{
+    padding-left: 128px;
+    padding-right: 128px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+    border: 2px solid #c5c5c5;
+    border-radius: 35px;
+    cursor: pointer;
+
+}
+/* h4.or {
+    display: flex;
+    flex-direction: row;
+}
+  
+h4.or:before,
+h4.or:after {
+    content: "";
+    flex: 1 1;
+    border-bottom: 2px solid #000;
+    margin: auto;
+}
+   */
+.hr{
+    display:flex
+}
